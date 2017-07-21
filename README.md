@@ -1,3 +1,3 @@
 # LifeBox
 
-A Android App for run small mobile phone. It can download game from remote server can run in phone which not install.
+A Android App for runing some small games. It can download games from remote server and run it in mobile phone with not install.
