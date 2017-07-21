@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifeBox</string>
+    <string name="app_label">LifeBox</string>
+    <string name="main_add_text">Recommended Applications</string>
+    <string name="app_list_name">Recommended Applications</string>
+    <string name="splash_text">正在启动lifebox ...</string>
+</resources>
